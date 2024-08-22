@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>We need access to your health data to track your fitness activities and progress</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.916288090412-6h80jcj0f927qc8mma3ldm2ff1i1pel4</string>
+				<string>fb3479104235688033</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>3479104235688033</string>
+	<key>FacebookClientToken</key>
+	<string>29db0faf1291620de7600036f3b12b84</string>
+	<key>FacebookDisplayName</key>
+	<string>Hormones &amp; Immonology Personalized Medicine</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>maps</string>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>NSHealthShareUsageDescription</key>
+	<string>We need access to read your health data to give you insights into your fitness progress</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>White</string>
+		<key>UIImageName</key>
+		<string>LaunchPhoto</string>
+	</dict>
+</dict>
+</plist>
